@@ -4,3 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/dunkley/Github-test.git
 git push -u origin master
+not really sure what i am doing wtih this so far but it is allwasys worth trying new things ii guess
